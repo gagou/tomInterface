@@ -1,0 +1,12 @@
+[submodule "oUF"]
+	path = oUF
+	url = git@github.com:oUF-wow/oUF.git
+[submodule "LibPlayerSpells-1.0"]
+  path = libs/LibPlayerSpells-1.0
+  url = git@github.com:AdiAddons/LibPlayerSpells-1.0.git
+[submodule "LibSpellbook-1.0"]
+  path = libs/LibSpellbook-1.0
+  url = git@github.com:AdiAddons/LibPlayerSpells-1.0.git
+[submodule "LibArtifactData-1.0"]
+  path = libs/LibArtifactData-1.0
+  url = git@github.com:Rainrider/LibArtifactData-1.0.git
